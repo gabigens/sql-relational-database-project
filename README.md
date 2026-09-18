@@ -122,6 +122,8 @@ This allowed the product information to be associated with individual transactio
 
 ## Project Structure
 
+```text
+.
 ├── Tasca S2.01. Nocions bàsiques SQL.sql
 ├── Tasca S2.01. Nocions bàsiques SQL.pdf
 └── README.md
