@@ -127,3 +127,10 @@ This allowed the product information to be associated with individual transactio
 ├── Tasca S2.01. Nocions bàsiques SQL.sql
 ├── Tasca S2.01. Nocions bàsiques SQL.pdf
 └── README.md
+
+├── data/
+│   ├── american_users.csv
+│   ├── european_users.csv
+│   ├── companies.csv
+│   ├── credit_cards.csv
+│   └── transactions.csv
